@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Composite\" />
+    <Folder Include="Composite\VirtualDirectoryExample\" />
   </ItemGroup>
 
 </Project>

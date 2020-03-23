@@ -9,6 +9,11 @@ namespace DesignPattern
             CallShapeExample();
         }
 
+        private static void CallCompositeExample()
+        {
+
+        }
+
         private static void CallShapeExample()
         {
             var shapeMaker = new ShapeMakerFacade();
